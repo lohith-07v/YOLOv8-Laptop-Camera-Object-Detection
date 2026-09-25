@@ -1,5 +1,8 @@
 # YOLOv8 Object Detection Using Laptop Camera
 
+## Name:Lohith V
+## Reg.No:212225230154
+
 ## Aim
 
 To access the **laptop camera**, capture an image, and detect objects using **YOLOv8**.
